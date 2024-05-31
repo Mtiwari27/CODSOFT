@@ -1,5 +1,5 @@
-# Hello All,
-# My name is Mukund Tiwari and I am working as a Data Science Intern at CodSoft. The Tasks that I have performed are :- 
+### Hello All,
+### My name is Mukund Tiwari and I am working as a Data Science Intern at CodSoft. The Tasks that I have performed are :- 
 
 **1. MOVIE RATING PREDICTION WITH PYTHON**
 Build a model that predicts the rating of a movie based on features like genre, director, and actors. You can use regression techniques to tackle this problem.
