@@ -2,7 +2,7 @@
 
 My name is Mukund Tiwari and I am working as a Data Science Intern at CodSoft. 
 
-The Tasks that I have performed are :- 
+The Task that I have performed is :- 
 
 **Task-2 : MOVIE RATING PREDICTION WITH PYTHON**
 
